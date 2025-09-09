@@ -73,6 +73,17 @@
     <script src="_content/nkast.Wasm.XR/js/XR.8.0.5.js"></script>
 
     <script>
+        window.getClipboard = async () => {
+            const text = await navigator.clipboard.readText();
+            DotNet.invokeMethod('Wires', 'ClipboardFound', text);
+        }
+
+        window.setClipboard = async (textToCopy) => {
+            if (navigator?.clipboard?.writeText) {
+                await navigator.clipboard.writeText(textToCopy);
+            }
+        }
+
         function tickJS()
         {
             window.theInstance.invokeMethod('TickDotNet');

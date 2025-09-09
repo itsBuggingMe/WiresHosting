@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Wires",
   "resources": {
-    "hash": "sha256-4vGmMujKSfKQ2MTc4gHxhwOB+OZWTRht+skRMrXgK/Y=",
+    "hash": "sha256-xvCca1fJx7Q7fubHbaSWvzDmlamDPLNxhiALh1l03BQ=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-1QpKPnxEuRCElzcp+e3MrovJeAJkuzqKmRQay/6Aa08="
     },
@@ -51,12 +51,12 @@
       "System.Runtime.InteropServices.JavaScript.wasm": "sha256-1SvSeA2rLE7SWOQE0wu8B6BbJq3BLntY0jVE7ypNtjc=",
       "System.Runtime.Numerics.wasm": "sha256-fSVBkDcDM/0SgSGxeSps/5+35Trpw8Eixwo/XRFGDeM=",
       "System.Runtime.Serialization.Primitives.wasm": "sha256-hJCqYV2ups2LHmOJJjovvE12e71ZpM3Umc5NdwdnFks=",
-      "System.Runtime.wasm": "sha256-IPcy0gxz1YWuZA3jcoOJVxt+i+MV6kN+/Hvhe1z1aew=",
+      "System.Runtime.wasm": "sha256-9V2ZG6Jvv/8FfbXBvP28Z+gNY81IJgKcFlzUj4ir6Uk=",
       "System.Text.Encodings.Web.wasm": "sha256-hQ0nvjUOsl52/mUkHtpPfPspJoou4qA0jv3pLACvHPQ=",
       "System.Text.Json.wasm": "sha256-orX0xSFzDVksYd0G56P+yev+KtqBxz5R9F+/LlJ8rAY=",
       "System.Text.RegularExpressions.wasm": "sha256-dmbbpdnZoRB5+CONgmsC58gzjW848F4X9+pYcbVL/Lg=",
       "System.Threading.wasm": "sha256-bpVB2FS85MRNVsqQYtvtpjFj4sbOYcFRPtU4zR2h3cE=",
-      "Wires.wasm": "sha256-PjQ39RkZ+4uegObdhlxY+a2KDMApRV5GYFQCEseykb0=",
+      "Wires.wasm": "sha256-gZYBrBojjuQXOOVnfQrAiuOWLTQB617FEIcbU+QNGfA=",
       "Xna.Framework.Audio.wasm": "sha256-XX3es2sLBwHF2limwEar4v5mtoR+DyhVIkpmc9s+aFA=",
       "Xna.Framework.Content.wasm": "sha256-4AMiJtsI7saWXvDdg85708xCESYZCU1+gfimQ6VDom8=",
       "Xna.Framework.Devices.wasm": "sha256-Y4+iNkPMco3+jtUGO0cP2ZR2ZQUoySCt3RCHNRtKRBs=",
