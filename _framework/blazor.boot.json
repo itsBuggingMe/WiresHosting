@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Gumknix",
   "resources": {
-    "hash": "sha256-GL2RHaVF0/XHatUJQpDeyf6MieymUWamb80j4de55Fo=",
+    "hash": "sha256-deHdpncGwojm4gpXi8c9vJCxJCB4Fm1OfKIefH/yj6k=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-1QpKPnxEuRCElzcp+e3MrovJeAJkuzqKmRQay/6Aa08="
     },
@@ -113,7 +113,7 @@
       "Xna.Framework.Media.wasm": "sha256-dcFkpP+LwEtiZp8hSZi76CSETi6CsxWgJQuql+x4n7Q=",
       "Xna.Framework.Storage.wasm": "sha256-mwkH2HHl5QZj30zcL+IR7RA3BEwdcUfBqIuAZ+TWEhs=",
       "Xna.Framework.XR.wasm": "sha256-2sPX++tqlhNSD0/lTggZ5VRIO/lMIQVdMfcf0QDgp4c=",
-      "Gumknix.wasm": "sha256-JXfJteLm1KyjSTlXAK0wkmGOJUg1bI3ynjkPYDrX25M="
+      "Gumknix.wasm": "sha256-oIuFv4sQyma7zGhAZoGTq/7rU7IVQUfssElY2bFAesw="
     },
     "satelliteResources": {
       "cs": {
