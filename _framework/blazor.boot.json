@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Gumknix",
   "resources": {
-    "hash": "sha256-deHdpncGwojm4gpXi8c9vJCxJCB4Fm1OfKIefH/yj6k=",
+    "hash": "sha256-nMyBeZuDnpmVIxMYGWeR1cQP2TFB+3EPRmXYbtpnXDc=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-1QpKPnxEuRCElzcp+e3MrovJeAJkuzqKmRQay/6Aa08="
     },
@@ -100,9 +100,9 @@
       "nkast.Wasm.Audio.wasm": "sha256-bQlSxf2kacJRxVqebmqRRUC7aH7iLTcTR0TXDEoGkAY=",
       "nkast.Wasm.Canvas.wasm": "sha256-jWEWB15NmvHEWg7Jq0bKGVIlcQaXQryktfGKWWeWdi8=",
       "nkast.Wasm.Dom.wasm": "sha256-w+XSgCR2ZYdziLPFvZoDREloLMsTOjCHDh6dyfnEpOk=",
-      "nkast.Wasm.JSInterop.wasm": "sha256-if1fM1WTZdtf4iUQZT6HjHz/5kT2YWDIRQg+5GpiE60=",
+      "nkast.Wasm.JSInterop.wasm": "sha256-GdfCdSEYo/dKJImGGre2NeC1djNL+qgG2xCNp+IR1Ww=",
       "nkast.Wasm.XHR.wasm": "sha256-lfJsOlC/7i3O/4/jogwCOeps8/P7iL8BXC2q+Tk6iSs=",
-      "nkast.Wasm.XR.wasm": "sha256-1kQsPEpfAlTpYZ9qoO3+t1Z4at6SkJxoWECU0kGBZgY=",
+      "nkast.Wasm.XR.wasm": "sha256-3S+k0o5Lwcj2rG1cmtxYMd20C355n3aE0cyFqVKVtNY=",
       "Xna.Framework.Audio.wasm": "sha256-ifmwsMTWDj7ccg3BZXFsQGCQG+1x+NytUsWjgYPED9o=",
       "Xna.Framework.Content.wasm": "sha256-qTyFRMxSskXIc8QrDNpn19AMCGlhSt3WFIN8nlFhGck=",
       "Xna.Framework.Devices.wasm": "sha256-KIRurWizWygkJrpCUPtkYfffQ81HH1TM7psTAtTFr4M=",
@@ -113,7 +113,7 @@
       "Xna.Framework.Media.wasm": "sha256-dcFkpP+LwEtiZp8hSZi76CSETi6CsxWgJQuql+x4n7Q=",
       "Xna.Framework.Storage.wasm": "sha256-mwkH2HHl5QZj30zcL+IR7RA3BEwdcUfBqIuAZ+TWEhs=",
       "Xna.Framework.XR.wasm": "sha256-2sPX++tqlhNSD0/lTggZ5VRIO/lMIQVdMfcf0QDgp4c=",
-      "Gumknix.wasm": "sha256-oIuFv4sQyma7zGhAZoGTq/7rU7IVQUfssElY2bFAesw="
+      "Gumknix.wasm": "sha256-jOpzNCCYqXVRZuGmGgfIbhrawz08uZ2KGbbWrbHkWiE="
     },
     "satelliteResources": {
       "cs": {
