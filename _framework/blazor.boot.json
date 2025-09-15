@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Gumknix",
   "resources": {
-    "hash": "sha256-nMyBeZuDnpmVIxMYGWeR1cQP2TFB+3EPRmXYbtpnXDc=",
+    "hash": "sha256-CaQEP0tgm8GiqyzPyrF/wSCeQef8KiperYCCRGujfFA=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-1QpKPnxEuRCElzcp+e3MrovJeAJkuzqKmRQay/6Aa08="
     },
@@ -100,20 +100,20 @@
       "nkast.Wasm.Audio.wasm": "sha256-bQlSxf2kacJRxVqebmqRRUC7aH7iLTcTR0TXDEoGkAY=",
       "nkast.Wasm.Canvas.wasm": "sha256-jWEWB15NmvHEWg7Jq0bKGVIlcQaXQryktfGKWWeWdi8=",
       "nkast.Wasm.Dom.wasm": "sha256-w+XSgCR2ZYdziLPFvZoDREloLMsTOjCHDh6dyfnEpOk=",
-      "nkast.Wasm.JSInterop.wasm": "sha256-GdfCdSEYo/dKJImGGre2NeC1djNL+qgG2xCNp+IR1Ww=",
+      "nkast.Wasm.JSInterop.wasm": "sha256-fQb6rIGiUVs292jtPm0htsPTeERXj7XmmqmzkOR8oOE=",
       "nkast.Wasm.XHR.wasm": "sha256-lfJsOlC/7i3O/4/jogwCOeps8/P7iL8BXC2q+Tk6iSs=",
-      "nkast.Wasm.XR.wasm": "sha256-3S+k0o5Lwcj2rG1cmtxYMd20C355n3aE0cyFqVKVtNY=",
+      "nkast.Wasm.XR.wasm": "sha256-JfGYJyCM1eC7WSEzJcoaYJ/S/vjxy9TrfQ54nTJ00HQ=",
       "Xna.Framework.Audio.wasm": "sha256-ifmwsMTWDj7ccg3BZXFsQGCQG+1x+NytUsWjgYPED9o=",
       "Xna.Framework.Content.wasm": "sha256-qTyFRMxSskXIc8QrDNpn19AMCGlhSt3WFIN8nlFhGck=",
       "Xna.Framework.Devices.wasm": "sha256-KIRurWizWygkJrpCUPtkYfffQ81HH1TM7psTAtTFr4M=",
       "Xna.Framework.wasm": "sha256-+RNNn2uQVeLYNc0t1zwalM0rof7M/Svph6JPT8RJ/Is=",
       "Xna.Framework.Game.wasm": "sha256-1tt8Z14zbSiThwBab7N5tkUN06E7zki9GCXLXDxBvwU=",
-      "Xna.Framework.Graphics.wasm": "sha256-Rw+CibXuykfqMKvQz5PgOob5Fq6s1rdwynyWg/hyCZw=",
+      "Xna.Framework.Graphics.wasm": "sha256-mNgp/FZ9WLco45iqmTUwzg16kiB54tlJViHdRsob1QE=",
       "Xna.Framework.Input.wasm": "sha256-3M0JFZfRcczFzCYq8My4Ioyor1LTXXPWOrrF1AxXst4=",
       "Xna.Framework.Media.wasm": "sha256-dcFkpP+LwEtiZp8hSZi76CSETi6CsxWgJQuql+x4n7Q=",
       "Xna.Framework.Storage.wasm": "sha256-mwkH2HHl5QZj30zcL+IR7RA3BEwdcUfBqIuAZ+TWEhs=",
       "Xna.Framework.XR.wasm": "sha256-2sPX++tqlhNSD0/lTggZ5VRIO/lMIQVdMfcf0QDgp4c=",
-      "Gumknix.wasm": "sha256-jOpzNCCYqXVRZuGmGgfIbhrawz08uZ2KGbbWrbHkWiE="
+      "Gumknix.wasm": "sha256-cjuHS4OjNSvr7tm4+YrVu9Q4+e1frzAJOPt1V/FbKjo="
     },
     "satelliteResources": {
       "cs": {
