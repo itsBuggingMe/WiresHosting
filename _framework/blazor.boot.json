@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Wires.Kni",
   "resources": {
-    "hash": "sha256-o705GKp0F1ZQNSaYlldKuUD9OJvwjGu9JcRJpW3dDQM=",
+    "hash": "sha256-GfCisVxYFDDm4WSUiTlmCeTZJ+iSMHrRo81jhwBfK3c=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-D0bzod5lwwSzPR43JC8TTCcZKw+3jIHOk8CZFCRj5is="
     },
@@ -65,7 +65,7 @@
       "System.Threading.ThreadPool.wasm": "sha256-73q5tUA0jmzlSZYc043ThvYYYclz7EZisyRqQnlbhIU=",
       "System.Threading.wasm": "sha256-u7LlHNsvhWVNq9Y4yoISPnysy6FKT5ezmVBka+4nqys=",
       "System.Web.HttpUtility.wasm": "sha256-qwxwKuhqc9bC+OzkYG2piTeYIPl0Pxiv+HN+edpGJ9w=",
-      "Wires.Kni.wasm": "sha256-jdA6zBrN/DwXXqbbltfv8mC6/YneX3csQPeFGY2PuAI=",
+      "Wires.Kni.wasm": "sha256-MxZYjUJPJb35fmYyhxQatv1Ikj1SBVNtXVG+GT0cJJ4=",
       "Xna.Framework.Audio.wasm": "sha256-XX3es2sLBwHF2limwEar4v5mtoR+DyhVIkpmc9s+aFA=",
       "Xna.Framework.Content.wasm": "sha256-4AMiJtsI7saWXvDdg85708xCESYZCU1+gfimQ6VDom8=",
       "Xna.Framework.Devices.wasm": "sha256-Y4+iNkPMco3+jtUGO0cP2ZR2ZQUoySCt3RCHNRtKRBs=",
